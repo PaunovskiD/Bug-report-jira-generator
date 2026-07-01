@@ -4,6 +4,14 @@
 
 AI-powered application that transforms raw bug reports into structured Jira-ready tickets with severity analysis and testing suggestions.
 
+## Key Features
+
+- Convert bug reports into Jira-ready tickets
+- AI-based severity assessment
+- Generate test suggestions
+- Structured QA recommendations
+- Web-based user interface
+
 ## Live Demo
 
 https://daniel-triage.base44.app/
