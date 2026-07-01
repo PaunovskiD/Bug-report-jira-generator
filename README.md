@@ -41,9 +41,19 @@ This application analyzes bug reports and automatically generates:
 
 Reduce manual effort and improve consistency in bug reporting workflows.
 
-## Screenshot
+## Screenshots
 
-(Add screenshots here)
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Bug Report Form
+![Bug Form](screenshots/bug-form.png)
+
+### Generated Jira Ticket
+![Jira Ticket](screenshots/jira-ticket-output.png)
+
+### Analysis Result
+![Analysis Result](screenshots/analysis-result.png)
 
 ## What I Learned
 
