@@ -44,16 +44,13 @@ Reduce manual effort and improve consistency in bug reporting workflows.
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/home-page.jpg)
 
 ### Bug Report Form
-![Bug Form](screenshots/bug-form.png)
+![Bug Form](screenshots/bug-form.jpg)
 
 ### Generated Jira Ticket
-![Jira Ticket](screenshots/jira-ticket-output.png)
-
-### Analysis Result
-![Analysis Result](screenshots/analysis-result.png)
+![Jira Ticket](screenshots/jira-ticket.jpg)
 
 ## What I Learned
 
