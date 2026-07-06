@@ -1,4 +1,4 @@
-# Bug Report → Jira Generator
+# AI-Bug-Report-Jira-Generator    
 
 ## Overview
 
