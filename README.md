@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI-powered application that transforms raw bug reports into structured Jira-ready tickets with severity analysis and testing suggestions.
+AI-powered QA tool that converts bug reports into structured Jira tickets with severity analysis and testing recommendations.   
 
 ## Key Features
 
